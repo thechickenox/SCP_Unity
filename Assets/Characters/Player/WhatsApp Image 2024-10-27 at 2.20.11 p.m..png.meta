@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 68c69220e86dc4e06a832be68a747c2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8633948408661225849
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._0"
+  - first:
+      213: -6752023087386619363
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._1"
+  - first:
+      213: -5997759674051173396
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._2"
+  - first:
+      213: -6583713269549482705
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._3"
+  - first:
+      213: -4511402754560475688
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._4"
+  - first:
+      213: -509648751207361335
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._5"
+  - first:
+      213: -3706656122935170843
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._6"
+  - first:
+      213: -566653066039438201
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._7"
+  - first:
+      213: -3025631784500951353
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._8"
+  - first:
+      213: -8712768299846603943
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._9"
+  - first:
+      213: -1099066156526845952
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._10"
+  - first:
+      213: -1597831679860819576
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._11"
+  - first:
+      213: 5289247504543105141
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._12"
+  - first:
+      213: 1670593149843953978
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._13"
+  - first:
+      213: -6200032643444260895
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._14"
+  - first:
+      213: -3878333018951504515
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._15"
+  - first:
+      213: 4536225600237251141
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._16"
+  - first:
+      213: -8756363489840956176
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._17"
+  - first:
+      213: -6388413404307374494
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._18"
+  - first:
+      213: 6651634401212736937
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._19"
+  - first:
+      213: 4356689208958832335
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._20"
+  - first:
+      213: 5316598262954123303
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._21"
+  - first:
+      213: -1544436490050778155
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._22"
+  - first:
+      213: 1637987375082805049
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._23"
+  - first:
+      213: 8453166583421288396
+    second: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._0"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1031
+        width: 91
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713d434552f1d770800000000000000
+      internalID: 8633948408661225849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._1"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1032
+        width: 87
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12951996cefb42a0800000000000000
+      internalID: -6752023087386619363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._2"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1031
+        width: 85
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3640c9a5da3cca0800000000000000
+      internalID: -5997759674051173396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._3"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1031
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d3a71d9a3f1a4a0800000000000000
+      internalID: -6583713269549482705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._4"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1032
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd34bfd8174461c0800000000000000
+      internalID: -4511402754560475688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._5"
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1030
+        width: 111
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c45018392d5de8f0800000000000000
+      internalID: -509648751207361335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._6"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 803
+        width: 91
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e82ce715ef4f8cc0800000000000000
+      internalID: -3706656122935170843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._7"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 805
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78455d7e908d228f0800000000000000
+      internalID: -566653066039438201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._8"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 802
+        width: 155
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c680b72cebc206d0800000000000000
+      internalID: -3025631784500951353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._9"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 803
+        width: 156
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95beb5db467061780800000000000000
+      internalID: -8712768299846603943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._10"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 802
+        width: 156
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000409b57255fb0f0800000000000000
+      internalID: -1099066156526845952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._11"
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 803
+        width: 156
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b7078d8c53d9e0800000000000000
+      internalID: -1597831679860819576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._12"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 575
+        width: 91
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c96de49e276940800000000000000
+      internalID: 5289247504543105141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._13"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 576
+        width: 93
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3956ac5e932f2710800000000000000
+      internalID: 1670593149843953978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._14"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 347
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efbda3f82f05f9a0800000000000000
+      internalID: -6200032643444260895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._15"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 347
+        width: 89
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d2ab4eaa46d2ac0800000000000000
+      internalID: -3878333018951504515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._16"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 347
+        width: 89
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aac234629e3fe30800000000000000
+      internalID: 4536225600237251141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._17"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 347
+        width: 88
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc74d79cc52b7680800000000000000
+      internalID: -8756363489840956176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._18"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 118
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e3ae52bdbc757a0800000000000000
+      internalID: -6388413404307374494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._19"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 119
+        width: 71
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ad0cfe3a5f4c50800000000000000
+      internalID: 6651634401212736937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._20"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 119
+        width: 81
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec4c8b0c1167c30800000000000000
+      internalID: 4356689208958832335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._21"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 119
+        width: 107
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e6dc93f958c940800000000000000
+      internalID: 5316598262954123303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._22"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 119
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4f50f13f019ae0800000000000000
+      internalID: -1544436490050778155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._23"
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 119
+        width: 61
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9379266d6dc4bb610800000000000000
+      internalID: 1637987375082805049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._24"
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf3708883eaf4570800000000000000
+      internalID: 8453166583421288396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._0": 8633948408661225849
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._1": -6752023087386619363
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._10": -1099066156526845952
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._11": -1597831679860819576
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._12": 5289247504543105141
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._13": 1670593149843953978
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._14": -6200032643444260895
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._15": -3878333018951504515
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._16": 4536225600237251141
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._17": -8756363489840956176
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._18": -6388413404307374494
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._19": 6651634401212736937
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._2": -5997759674051173396
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._20": 4356689208958832335
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._21": 5316598262954123303
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._22": -1544436490050778155
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._23": 1637987375082805049
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._24": 8453166583421288396
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._3": -6583713269549482705
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._4": -4511402754560475688
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._5": -509648751207361335
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._6": -3706656122935170843
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._7": -566653066039438201
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._8": -3025631784500951353
+      "WhatsApp Image 2024-10-27 at 2.20.11\u202Fp.m._9": -8712768299846603943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

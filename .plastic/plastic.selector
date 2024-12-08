@@ -1,0 +1,4 @@
+repository "SCP-Escape-U6@Compositor_Unit@cloud"
+  path "/"
+    br "/main"
+    co "/main"

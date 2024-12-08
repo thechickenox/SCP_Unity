@@ -1,0 +1,1408 @@
+fileFormatVersion: 2
+guid: ba39bff89717445f9801d9c5d3da8021
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8990809003785694085
+    second: SCP_PROPS_0
+  - first:
+      213: -1158436528575578112
+    second: SCP_PROPS_1
+  - first:
+      213: -1103376073498464203
+    second: SCP_PROPS_2
+  - first:
+      213: 4507131202259093244
+    second: SCP_PROPS_3
+  - first:
+      213: -8847124458556352886
+    second: SCP_PROPS_4
+  - first:
+      213: 4161873573923574050
+    second: SCP_PROPS_5
+  - first:
+      213: -7828633059205249129
+    second: SCP_PROPS_6
+  - first:
+      213: 3846607139112427909
+    second: SCP_PROPS_7
+  - first:
+      213: 8870327559660731352
+    second: SCP_PROPS_8
+  - first:
+      213: 6634484898096079679
+    second: SCP_PROPS_9
+  - first:
+      213: -2925345930814987727
+    second: SCP_PROPS_10
+  - first:
+      213: 1127454896100307488
+    second: SCP_PROPS_11
+  - first:
+      213: 69594666896367226
+    second: SCP_PROPS_12
+  - first:
+      213: 8698206948656281856
+    second: SCP_PROPS_13
+  - first:
+      213: 175456605625760082
+    second: SCP_PROPS_14
+  - first:
+      213: 3846699604542195992
+    second: SCP_PROPS_15
+  - first:
+      213: -881776097277834059
+    second: SCP_PROPS_16
+  - first:
+      213: -8673769876287979148
+    second: SCP_PROPS_17
+  - first:
+      213: -808274955957571181
+    second: SCP_PROPS_18
+  - first:
+      213: 7016561663960604571
+    second: SCP_PROPS_19
+  - first:
+      213: -5609063062753700308
+    second: SCP_PROPS_20
+  - first:
+      213: -6387039291750712543
+    second: SCP_PROPS_21
+  - first:
+      213: -7158461704041956054
+    second: SCP_PROPS_22
+  - first:
+      213: 2667388928266731289
+    second: SCP_PROPS_23
+  - first:
+      213: -3013846182254423959
+    second: SCP_PROPS_24
+  - first:
+      213: -717346012592818859
+    second: SCP_PROPS_25
+  - first:
+      213: -6439677338759465593
+    second: SCP_PROPS_26
+  - first:
+      213: -1216849248206285385
+    second: SCP_PROPS_27
+  - first:
+      213: 4381575807150067871
+    second: SCP_PROPS_28
+  - first:
+      213: 4567160286707022478
+    second: SCP_PROPS_29
+  - first:
+      213: 6595366270491504467
+    second: SCP_PROPS_30
+  - first:
+      213: 1411538042227204100
+    second: SCP_PROPS_31
+  - first:
+      213: -3707052101871502738
+    second: SCP_PROPS_32
+  - first:
+      213: 2787554453345333654
+    second: SCP_PROPS_33
+  - first:
+      213: 6271938119424149854
+    second: SCP_PROPS_34
+  - first:
+      213: 3693705170137257015
+    second: SCP_PROPS_35
+  - first:
+      213: 6890527808754656788
+    second: SCP_PROPS_36
+  - first:
+      213: 4599483706610941364
+    second: SCP_PROPS_37
+  - first:
+      213: 4027185283848523356
+    second: SCP_PROPS_38
+  - first:
+      213: -5115965919429449324
+    second: SCP_PROPS_39
+  - first:
+      213: -9103629762165124347
+    second: SCP_PROPS_40
+  - first:
+      213: 8185062059543057336
+    second: SCP_PROPS_41
+  - first:
+      213: 6467441773782752940
+    second: SCP_PROPS_42
+  - first:
+      213: 601431253894102965
+    second: SCP_PROPS_43
+  - first:
+      213: 2885202992739108949
+    second: SCP_PROPS_44
+  - first:
+      213: 803229061985910355
+    second: SCP_PROPS_45
+  - first:
+      213: -8385251428929166821
+    second: SCP_PROPS_46
+  - first:
+      213: 5528509049053734644
+    second: SCP_PROPS_47
+  - first:
+      213: 6112907835341833916
+    second: SCP_PROPS_48
+  - first:
+      213: -3556870336743257427
+    second: SCP_PROPS_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SCP_PROPS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 35, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba7025725c5cc70800000000000000
+      internalID: 8990809003785694085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0008a6b6d186cefe0800000000000000
+      internalID: -1158436528575578112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 445
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530757d9e4500b0f0800000000000000
+      internalID: -1103376073498464203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 381
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68bbad2fb8c8e30800000000000000
+      internalID: 4507131202259093244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 382
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a861414dd23b83580800000000000000
+      internalID: -8847124458556352886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221dcc507f1f1c930800000000000000
+      internalID: 4161873573923574050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 435
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7970135e5bb1b5390800000000000000
+      internalID: -7828633059205249129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 395
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581274510d4e16530800000000000000
+      internalID: 3846607139112427909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 398
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e5b22ddc621c50800000000000000
+      internalID: 6634484898096079679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13263a400651767d0800000000000000
+      internalID: -2925345930814987727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0227556214685af00800000000000000
+      internalID: 1127454896100307488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e9e961bff37f000800000000000000
+      internalID: 69594666896367226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009fd7d722d36b870800000000000000
+      internalID: 8698206948656281856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 323
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b1db6ad85f6200800000000000000
+      internalID: 175456605625760082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 220
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198f5ed8e8326530800000000000000
+      internalID: 3846699604542195992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 310
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc0356bf4d43c3f0800000000000000
+      internalID: -881776097277834059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 307
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710f5cc04490a780800000000000000
+      internalID: -8673769876287979148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 243
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391fd41c53e68c4f0800000000000000
+      internalID: -808274955957571181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 320
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fdef478a5df5160800000000000000
+      internalID: 7016561663960604571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 257
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c261dcdccda9822b0800000000000000
+      internalID: -5609063062753700308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7cb8aa9dac57a0800000000000000
+      internalID: -6387039291750712543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 183
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d7750e10908ac90800000000000000
+      internalID: -7158461704041956054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ff52b0918740520800000000000000
+      internalID: 2667388928266731289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 189
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960de038ddaac26d0800000000000000
+      internalID: -3013846182254423959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 243
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555bc5a2a997b06f0800000000000000
+      internalID: -717346012592818859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 179
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785fb1b449ba1a6a0800000000000000
+      internalID: -6439677338759465593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 245
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5967f4e02ec1fe0800000000000000
+      internalID: -1216849248206285385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9010a56bfb7ecc30800000000000000
+      internalID: 4381575807150067871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 189
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a71793510d16f30800000000000000
+      internalID: 4567160286707022478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2d34eda2778b50800000000000000
+      internalID: 6595366270491504467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40027e9ee5ac69310800000000000000
+      internalID: 1411538042227204100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 60
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.4817617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a751011c7ed8cc0800000000000000
+      internalID: -3707052101871502738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 126
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691f4b791026fa620800000000000000
+      internalID: 2787554453345333654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 136
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59028d4d766a0750800000000000000
+      internalID: 6271938119424149854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7341e0b384da24330800000000000000
+      internalID: 3693705170137257015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 119
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416a5c3d88210af50800000000000000
+      internalID: 6890527808754656788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 62
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdfdb2ef06a4df30800000000000000
+      internalID: 4599483706610941364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 119
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ec870cdaf63e730800000000000000
+      internalID: 4027185283848523356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49927611a107009b0800000000000000
+      internalID: -5115965919429449324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 133
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5035973e6f869a180800000000000000
+      internalID: -9103629762165124347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_41
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3579ba39e279170800000000000000
+      internalID: 8185062059543057336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 119
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caed7dbf608f0c950800000000000000
+      internalID: 6467441773782752940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 71
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bffc25f986b85800800000000000000
+      internalID: 601431253894102965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558cb1fd5dc4a0820800000000000000
+      internalID: 2885202992739108949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eb0f08394a52b00800000000000000
+      internalID: 803229061985910355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12275a904a91ab80800000000000000
+      internalID: -8385251428929166821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6616650b539bc40800000000000000
+      internalID: 5528509049053734644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb68046e94965d450800000000000000
+      internalID: 6112907835341833916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCP_PROPS_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa4b4a164573aec0800000000000000
+      internalID: -3556870336743257427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 521bd66a7eb734e08a23d127a4c52f92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SCP_PROPS_0: 8990809003785694085
+      SCP_PROPS_1: -1158436528575578112
+      SCP_PROPS_10: -2925345930814987727
+      SCP_PROPS_11: 1127454896100307488
+      SCP_PROPS_12: 69594666896367226
+      SCP_PROPS_13: 8698206948656281856
+      SCP_PROPS_14: 175456605625760082
+      SCP_PROPS_15: 3846699604542195992
+      SCP_PROPS_16: -881776097277834059
+      SCP_PROPS_17: -8673769876287979148
+      SCP_PROPS_18: -808274955957571181
+      SCP_PROPS_19: 7016561663960604571
+      SCP_PROPS_2: -1103376073498464203
+      SCP_PROPS_20: -5609063062753700308
+      SCP_PROPS_21: -6387039291750712543
+      SCP_PROPS_22: -7158461704041956054
+      SCP_PROPS_23: 2667388928266731289
+      SCP_PROPS_24: -3013846182254423959
+      SCP_PROPS_25: -717346012592818859
+      SCP_PROPS_26: -6439677338759465593
+      SCP_PROPS_27: -1216849248206285385
+      SCP_PROPS_28: 4381575807150067871
+      SCP_PROPS_29: 4567160286707022478
+      SCP_PROPS_3: 4507131202259093244
+      SCP_PROPS_30: 6595366270491504467
+      SCP_PROPS_31: 1411538042227204100
+      SCP_PROPS_32: -3707052101871502738
+      SCP_PROPS_33: 2787554453345333654
+      SCP_PROPS_34: 6271938119424149854
+      SCP_PROPS_35: 3693705170137257015
+      SCP_PROPS_36: 6890527808754656788
+      SCP_PROPS_37: 4599483706610941364
+      SCP_PROPS_38: 4027185283848523356
+      SCP_PROPS_39: -5115965919429449324
+      SCP_PROPS_4: -8847124458556352886
+      SCP_PROPS_40: -9103629762165124347
+      SCP_PROPS_41: 8185062059543057336
+      SCP_PROPS_42: 6467441773782752940
+      SCP_PROPS_43: 601431253894102965
+      SCP_PROPS_44: 2885202992739108949
+      SCP_PROPS_45: 803229061985910355
+      SCP_PROPS_46: -8385251428929166821
+      SCP_PROPS_47: 5528509049053734644
+      SCP_PROPS_48: 6112907835341833916
+      SCP_PROPS_49: -3556870336743257427
+      SCP_PROPS_5: 4161873573923574050
+      SCP_PROPS_6: -7828633059205249129
+      SCP_PROPS_7: 3846607139112427909
+      SCP_PROPS_8: 8870327559660731352
+      SCP_PROPS_9: 6634484898096079679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

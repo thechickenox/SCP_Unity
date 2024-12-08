@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: e07d891f5008c46d392b45edc02ddf48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -236619611796383025
+    second: scientist_0
+  - first:
+      213: 1648050328079253374
+    second: scientist_1
+  - first:
+      213: 5843917373465877143
+    second: scientist_2
+  - first:
+      213: -2452797923397068180
+    second: scientist_3
+  - first:
+      213: 884762670773697752
+    second: scientist_4
+  - first:
+      213: 3812723210715605895
+    second: scientist_5
+  - first:
+      213: 4742007332142120624
+    second: scientist_6
+  - first:
+      213: -2244577035131318505
+    second: scientist_7
+  - first:
+      213: 1192327656847085527
+    second: scientist_8
+  - first:
+      213: -6244179480278470617
+    second: scientist_9
+  - first:
+      213: 4361552996380519270
+    second: scientist_10
+  - first:
+      213: 6018963712238543535
+    second: scientist_11
+  - first:
+      213: -8303806153358064523
+    second: scientist_12
+  - first:
+      213: 6312834968134340603
+    second: scientist_13
+  - first:
+      213: -8624479685710804178
+    second: scientist_14
+  - first:
+      213: 5290080785095144979
+    second: scientist_15
+  - first:
+      213: 2590805649806724200
+    second: scientist_16
+  - first:
+      213: -8653242371908687448
+    second: scientist_17
+  - first:
+      213: 7393042234594433755
+    second: scientist_18
+  - first:
+      213: 1917505801957769683
+    second: scientist_19
+  - first:
+      213: 6670999297013592782
+    second: scientist_20
+  - first:
+      213: 3096521225048109530
+    second: scientist_21
+  - first:
+      213: -2083000452940267220
+    second: scientist_22
+  - first:
+      213: 4366372412062150500
+    second: scientist_23
+  - first:
+      213: 9164655694546410221
+    second: scientist_24
+  - first:
+      213: 2174202232590341213
+    second: scientist_25
+  - first:
+      213: 8946910995846781073
+    second: scientist_26
+  - first:
+      213: -1334644625216396866
+    second: scientist_27
+  - first:
+      213: -7943365668143417740
+    second: scientist_28
+  - first:
+      213: -9136998257508080632
+    second: scientist_29
+  - first:
+      213: 3236932659286521917
+    second: scientist_30
+  - first:
+      213: -8265614241519762731
+    second: scientist_31
+  - first:
+      213: 8708509049001332372
+    second: scientist_32
+  - first:
+      213: -5110064710414112831
+    second: scientist_33
+  - first:
+      213: 3208500574173790174
+    second: scientist_34
+  - first:
+      213: -4940213742720427559
+    second: scientist_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scientist_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 788
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca5cfb77bb57bcf0800000000000000
+      internalID: -236619611796383025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 788
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f3129aa0d0fd610800000000000000
+      internalID: 1648050328079253374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 789
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ada2683e3c91150800000000000000
+      internalID: 5843917373465877143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 788
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a1a1eb849e5fdd0800000000000000
+      internalID: -2452797923397068180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 788
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfdfd16fe474c00800000000000000
+      internalID: 884762670773697752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_5
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 788
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b27993f8389e430800000000000000
+      internalID: 3812723210715605895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 598
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bef0aa5b8efec140800000000000000
+      internalID: 4742007332142120624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 598
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f8ffd2419a9d0e0800000000000000
+      internalID: -2244577035131318505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 598
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8e3acfaffb8010800000000000000
+      internalID: 1192327656847085527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 598
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f73488d73859a0800000000000000
+      internalID: -6244179480278470617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 598
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b2d4a7759578c30800000000000000
+      internalID: 4361552996380519270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 597
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2e1ff3b97a78350800000000000000
+      internalID: 6018963712238543535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 597
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c3698c44f2cc80800000000000000
+      internalID: -8303806153358064523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_13
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 597
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffcf49e4f1bb9750800000000000000
+      internalID: 6312834968134340603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 417
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b82a89b61bf4880800000000000000
+      internalID: -8624479685710804178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 417
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31637bc22742a6940800000000000000
+      internalID: 5290080785095144979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 417
+        width: 52
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c0ec6030464f320800000000000000
+      internalID: 2590805649806724200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 417
+        width: 48
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9260bd8e189e780800000000000000
+      internalID: -8653242371908687448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 417
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda167a0ebc599660800000000000000
+      internalID: 7393042234594433755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_19
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 417
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d181741e595c9a10800000000000000
+      internalID: 1917505801957769683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 417
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec230632486249c50800000000000000
+      internalID: 6670999297013592782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 417
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1337ae5ad09fa20800000000000000
+      internalID: 3096521225048109530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21848fcf12b713e0800000000000000
+      internalID: -2083000452940267220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 242
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fa7022398789c30800000000000000
+      internalID: 4366372412062150500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 263
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea133a3cc56f2f70800000000000000
+      internalID: 9164655694546410221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 242
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54986f39615c2e10800000000000000
+      internalID: 2174202232590341213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 242
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198db70e520d92c70800000000000000
+      internalID: 8946910995846781073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 242
+        width: 44
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1a79cd8c36a7de0800000000000000
+      internalID: -1334644625216396866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_28
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 242
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763745b20f73c190800000000000000
+      internalID: -7943365668143417740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_29
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 242
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8042ed3ae7cd23180800000000000000
+      internalID: -9136998257508080632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3832a68a15ebec20800000000000000
+      internalID: 3236932659286521917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 114
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20ec3f3a3aa4d80800000000000000
+      internalID: -8265614241519762731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 69
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecff427d6dad870800000000000000
+      internalID: 8708509049001332372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e18c58376519b0800000000000000
+      internalID: -5110064710414112831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edff349d542e68c20800000000000000
+      internalID: 3208500574173790174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scientist_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 69
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d955ae76c5d07bb0800000000000000
+      internalID: -4940213742720427559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scientist_0: -236619611796383025
+      scientist_1: 1648050328079253374
+      scientist_10: 4361552996380519270
+      scientist_11: 6018963712238543535
+      scientist_12: -8303806153358064523
+      scientist_13: 6312834968134340603
+      scientist_14: -8624479685710804178
+      scientist_15: 5290080785095144979
+      scientist_16: 2590805649806724200
+      scientist_17: -8653242371908687448
+      scientist_18: 7393042234594433755
+      scientist_19: 1917505801957769683
+      scientist_2: 5843917373465877143
+      scientist_20: 6670999297013592782
+      scientist_21: 3096521225048109530
+      scientist_22: -2083000452940267220
+      scientist_23: 4366372412062150500
+      scientist_24: 9164655694546410221
+      scientist_25: 2174202232590341213
+      scientist_26: 8946910995846781073
+      scientist_27: -1334644625216396866
+      scientist_28: -7943365668143417740
+      scientist_29: -9136998257508080632
+      scientist_3: -2452797923397068180
+      scientist_30: 3236932659286521917
+      scientist_31: -8265614241519762731
+      scientist_32: 8708509049001332372
+      scientist_33: -5110064710414112831
+      scientist_34: 3208500574173790174
+      scientist_35: -4940213742720427559
+      scientist_4: 884762670773697752
+      scientist_5: 3812723210715605895
+      scientist_6: 4742007332142120624
+      scientist_7: -2244577035131318505
+      scientist_8: 1192327656847085527
+      scientist_9: -6244179480278470617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

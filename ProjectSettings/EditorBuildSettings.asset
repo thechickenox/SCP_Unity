@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 53816fb80fa42436fb15299171e5612f
+  - enabled: 1
+    path: Assets/Scenes/FirstFloor-Base.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/FirstFloor-Caos.unity
+    guid: 3faad400d7494475eacac521576a372a
+  - enabled: 1
+    path: Assets/Scenes/SecondFloor.unity
+    guid: 8470916503f4726499507e474c72281f
+  - enabled: 1
+    path: Assets/Scenes/Third.unity
+    guid: d240e50dfe7de4a38a81a1252d6570ca
+  - enabled: 1
+    path: Assets/Scenes/NowhereFloor.unity
+    guid: 81a1111478ac00b41b4df50b6725755d
+  - enabled: 1
+    path: Assets/Scenes/FourthFloor-2.unity
+    guid: 59747b3e8dc214fd995d2cf8f5bed0b4
+  - enabled: 1
+    path: Assets/Scenes/FifthFloor.unity
+    guid: 16f772a1d125530419702eb1ad062158
+  - enabled: 0
+    path: Assets/Scenes/FourthFloor.unity
+    guid: 7df1fce466a3f4e7598461f923e8c551
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

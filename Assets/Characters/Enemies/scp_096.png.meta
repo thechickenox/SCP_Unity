@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 0d0a5857161344686b1bef01ca3cac37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7823700630291113361
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_0
+  - first:
+      213: -7279302948648096744
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_1
+  - first:
+      213: 2258404939357895632
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_2
+  - first:
+      213: -5951699296587894939
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_3
+  - first:
+      213: 3998548049064784019
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_4
+  - first:
+      213: 4574306975570414642
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_5
+  - first:
+      213: 7221210509472006800
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_6
+  - first:
+      213: -1778663141931007925
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_7
+  - first:
+      213: -6753036880806405480
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_8
+  - first:
+      213: 3587780657792080448
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_9
+  - first:
+      213: -1165911183932143347
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_10
+  - first:
+      213: -4225388862866997377
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_11
+  - first:
+      213: -4265607490997546957
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_12
+  - first:
+      213: -4182841952564479899
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_13
+  - first:
+      213: 5916043171159226640
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_14
+  - first:
+      213: 2270161766519553609
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_15
+  - first:
+      213: 4663896901529436460
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_16
+  - first:
+      213: 6157293870463938209
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_17
+  - first:
+      213: -8132399391558191621
+    second: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 328
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a9f7e7ab1ac6390800000000000000
+      internalID: -7823700630291113361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 325
+        width: 111
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c606d1988bafa90800000000000000
+      internalID: -7279302948648096744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 322
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db3a69a357775f10800000000000000
+      internalID: 2258404939357895632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 325
+        width: 93
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fafe0f501576da0800000000000000
+      internalID: -5951699296587894939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 328
+        width: 112
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39076d1f342bd7730800000000000000
+      internalID: 3998548049064784019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 328
+        width: 112
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c477465f33b7f30800000000000000
+      internalID: 4574306975570414642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_6
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 327
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928561e2b4e63460800000000000000
+      internalID: 7221210509472006800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 324
+        width: 113
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404f12db4be057e0800000000000000
+      internalID: -1778663141931007925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a1c6c6cb46842a0800000000000000
+      internalID: -6753036880806405480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 195
+        width: 121
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad6b7df7b5ac130800000000000000
+      internalID: 3587780657792080448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 194
+        width: 123
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09c11a94f9d1dfe0800000000000000
+      internalID: -1165911183932143347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 194
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fbbee57376c55c0800000000000000
+      internalID: -4225388862866997377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 195
+        width: 126
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33098db46948dc4c0800000000000000
+      internalID: -4265607490997546957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 195
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568fac1e76f83f5c0800000000000000
+      internalID: -4182841952564479899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 166
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01932dc6be10a1250800000000000000
+      internalID: 5916043171159226640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 38
+        width: 148
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e321c491c318f10800000000000000
+      internalID: 2270161766519553609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 38
+        width: 168
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2105b4858d79b040800000000000000
+      internalID: 4663896901529436460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 38
+        width: 159
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae61b6072a137550800000000000000
+      internalID: 6157293870463938209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_scp_096_progres____by_xmaygrrr_df85op8-2_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 38
+        width: 131
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5329637d9e32f80800000000000000
+      internalID: -8132399391558191621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_0: -7823700630291113361
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_1: -7279302948648096744
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_10: -1165911183932143347
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_11: -4225388862866997377
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_12: -4265607490997546957
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_13: -4182841952564479899
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_14: 5916043171159226640
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_15: 2270161766519553609
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_16: 4663896901529436460
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_17: 6157293870463938209
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_18: -8132399391558191621
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_2: 2258404939357895632
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_3: -5951699296587894939
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_4: 3998548049064784019
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_5: 4574306975570414642
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_6: 7221210509472006800
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_7: -1778663141931007925
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_8: -6753036880806405480
+      cvs_scp_096_progres____by_xmaygrrr_df85op8-2_9: 3587780657792080448
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
